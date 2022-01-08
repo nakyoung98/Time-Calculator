@@ -7,4 +7,6 @@
     <string name="sec">초</string>
     <string name="plus">더하기</string>
     <string name="minus">빼 기</string>
+    <string name="calLog">계산 결과</string>
+    <string name="calName">None</string>
 </resources>
